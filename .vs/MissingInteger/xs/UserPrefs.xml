@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B0CA907A-A975-49D5-BD56-57617B845570}|Default">
+  <MonoDevelop.Ide.ItemProperties.MissingInteger FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MissingInteger Status">
+    <Files>
+      <File FileName="MissingInteger/Program.cs" Line="24" Column="2" />
+      <File FileName="MissingInteger Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
